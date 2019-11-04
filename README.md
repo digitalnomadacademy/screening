@@ -1,4 +1,4 @@
-# screening
+# SCREENING
 
 Mokuteki
 
@@ -10,7 +10,7 @@ Go to a folder that was assigned to you, and follow the instructions for the ass
 
 ## SUBMISSION
 
-For each task you will open a new GIT repository on Github 
+For each task you will open a new GIT repository on Github
 You can work on develop branch, but every task from the assignment must be
  commited and merged into the master branch as a release.
 
