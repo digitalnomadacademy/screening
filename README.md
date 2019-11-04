@@ -10,11 +10,10 @@ Go to a folder that was assigned to you, and follow the instructions for the ass
 
 ## SUBMISSION
 
-For each task you will open a new GIT repository on Github
-You can work on develop branch, but every task from the assignment must be
- commited and merged into the master branch as a release.
-
-Once the assignment is finished, send us the link to the repository.
+For each task you will open a new personal GIT repository on Github
+Work following the gitflow princuples, and create a feature for every task from the assignment.
+ 
+Once the assignment is finished, send us the link to your repository.
 
 
 ## HELP
