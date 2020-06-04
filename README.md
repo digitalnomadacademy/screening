@@ -1,10 +1,10 @@
 # SCREENING
 
-Mokuteki
+Test tasks
 
 ## INTRODUCTION
 
-In this repository you will find interview assignments for Mokuteki.io
+In this repository you will find interview assignments for Flutter position.
 
 Go to a folder that was assigned to you, and follow the instructions for the assignment.
 
