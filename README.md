@@ -6,6 +6,9 @@ Welcome to screening for your job position :)
 
 In this repository you will find interview assignments for different positions.
 
+[Flutter](assignments/flutter/)
+[PHP](assignments/php/)
+
 Go to a folder that was assigned to you, and follow the instructions for the assignment.
 
 ## SUBMISSION
