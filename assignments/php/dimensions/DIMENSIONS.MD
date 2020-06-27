@@ -32,7 +32,7 @@ color
 size (0 - 1)
 id (random in 0-inf)
 
-##TASKS
+## TASKS
 Create git repository for the project.
 Use git-flow when creating commits.
 
@@ -44,10 +44,10 @@ Create a page and use your creativity when displaying the objects.
 Reuse components as much as possible
 
 
-##SUBMISSION
+## SUBMISSION
 Check the README.ms in the main folder for details on the submission
 
-##NOTES
+## NOTES
 Extra points if you
 
 think of creative addition to the task
